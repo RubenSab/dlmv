@@ -1,4 +1,4 @@
-# Installation
+# Installation (check the Releases page)
 
 Clone it with `git clone https://github.com/RubenSab/dlmv.git` or download it from the Releases page.
 
