@@ -4,7 +4,7 @@ Clone it with `git clone https://github.com/RubenSab/dlmv.git` or download it fr
 
 extract it with `tar -xvzf dlmv.tar.gz` or by clicking on it.
 
-install it with `make install` or by clicking on `install.sh` inside the `dlmv_installer` folder.
+install it with `./install.sh` or by clicking on `install.sh` inside the `dlmv_installer` folder.
 
 enjoy it!
 
