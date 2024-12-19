@@ -1,8 +1,11 @@
 # Installation
 
 clone it: `git clone https://github.com/RubenSab/dlmv.git`,
+
 extract it: `tar -xvzf dlmv.tar.gz`,
+
 install it: `make install`,
+
 enjoy it!
 
 
