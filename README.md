@@ -1,6 +1,6 @@
 # Installation
 
-clone it: `git clone https://github.com/RubenSab/dlmv.git`,
+Clone it: `git clone https://github.com/RubenSab/dlmv.git`,
 
 extract it: `tar -xvzf dlmv.tar.gz`,
 
