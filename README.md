@@ -1,6 +1,6 @@
 # Installation
 
-clone it with `git clone https://github.com/RubenSab/dlmv.git` or download it from the Releases page.
+Clone it with `git clone https://github.com/RubenSab/dlmv.git` or download it from the Releases page.
 
 extract it with `tar -xvzf dlmv.tar.gz` or by clicking on it.
 
